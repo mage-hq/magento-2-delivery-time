@@ -1,5 +1,5 @@
 # magento-2-delivery-time
-Magento 2 Delivery Time extension allows customers to choose an appropriate delivery date and time to receive their order and leave a delivery comment.
+Magento 2 Delivery Date extension lets customers choose a suitable delivery date and time to get their order and leave a delivery note
 
 Please go to https://magehq.com/magento-2-delivery-time.html buy extension
 
